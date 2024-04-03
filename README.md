@@ -1,0 +1,2 @@
+# powerBICutomVisualTutorial
+powerBI customVisualのテスト
